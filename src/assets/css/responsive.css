@@ -1,0 +1,73 @@
+@media (min-width: 1200px) {}
+
+@media (min-width: 1280px) {}
+
+@media (min-width: 1350px) {}
+
+@media (min-width: 1440px) {}
+
+@media (min-width: 1600px) {}
+
+@media (min-width: 1680px) {}
+
+@media (min-width: 1920px) {}
+
+@media (max-width: 1899px) {}
+
+@media (max-width: 1799px) {}
+
+@media (min-width: 1600px) {}
+
+@media (max-width: 1679px) {}
+
+@media (max-width: 1599px) {}
+
+@media (max-width: 1439px) {}
+
+@media (max-width: 1365px) {
+    .font-size-4xl {
+        font-size: 96px !important;
+    }
+}
+
+@media (max-width: 1279px) {}
+
+@media (max-width: 1199px) {
+    .font-size-4xl {
+        font-size: 72px !important;
+    }
+    .font-size-2xl{
+        font-size: 20px !important;
+    }
+    .font-size-xl {
+        font-size: 18px !important;
+    }
+}
+
+@media (max-width: 991px) {
+    .font-size-4xl {
+        font-size: 52px !important;
+    };
+}
+
+@media (max-width: 767px) {
+    .font-size-2xl {
+        font-size: 16px !important;
+    }
+    .font-size-xl{
+        font-size: 16px !important;
+    }
+}
+
+@media (max-width: 575px) {
+    .font-size-4xl {
+        font-size: 42px !important;
+    };
+}
+
+/* 
+@media (max-width: 400px) {}
+
+@media (max-width: 350px) {}
+
+@media (min-width: 2000px) {} */

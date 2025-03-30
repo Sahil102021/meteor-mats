@@ -1,0 +1,15 @@
+:root{
+
+    /* font family */
+    --font-primary: 'Mona Sans';
+    --font-secondary: 'Medium Regular';
+    --font-tertiary: 'Anton';
+    
+    /* background color */
+    --bg-blue : #0A0ABF;
+    --bg-black : #0D0D0D;
+    --bg-black-light :#1F1F1F;
+    --bg-black-light-transparent :#1F1F1F73;
+    --bg-grey :#F5F5F7;
+    
+}
